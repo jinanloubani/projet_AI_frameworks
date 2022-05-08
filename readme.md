@@ -1,3 +1,5 @@
+Ce projet a été réalisé par Alae Kichi et Jinan Loubani. La commande permettant de lancer correctement le script ```main.py``` est: python main.py --weights='weights.pth' --test_data='test_script.csv'
+
 # Projet AI Frameworks
 
 Dans ce projet, vous allez travailler sur des données<sup>[1](#myfootnote1)</sup>issues du site [Food.com](https://www.food.com/), un célèbre site de recettes de cuisine.   
